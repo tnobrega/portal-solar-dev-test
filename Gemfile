@@ -14,6 +14,8 @@ gem 'bootsnap', '>= 1.4.2', require: false
 gem 'jquery-rails'
 gem 'uglifier', '>= 1.3.0'
 gem "roo", "~> 2.8.0"
+gem 'bootstrap', '~> 4.3.1'
+gem 'simple_form'
 
 
 group :development, :test do
